@@ -1,6 +1,7 @@
 # Online Python compiler (interpreter) to run Python online.
 from collections import Counter
 s=input("Enter String ")
+s=s.upper()
 v=['A','E','I','O','U']
 final_result={}
 stuart=[]
